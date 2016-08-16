@@ -189,11 +189,43 @@ Using reference style
 ## Miscellany
 ** Auto-links
 
+<http://www.google.com> is equivalent to
+`[http://www.google.com](http://www.google.com)`
+
 ** Auto-links for emails
+
+`<cure100061148@gmail.com>` : <cure100061148@gmail.com>
 
 ** Escaping characters
 
+Add \ before the symbols that create some effect that you dislike. For example, 
+add \ before * can make texts surrounded by asterisks not to be italic.
+
 ** Keyboard keys
+
+In GitHub Flavored Markdown, you can use a `<kbd>` tag to represent keyboard keys,
+for example, `<kbd>Alt</kbd>` : <kbd>Alt</kbd>
 
 ** Tables
 
+Tables are only available in GitHub Flavored Markdown.
+
+For example,
+
+`Col1 | Col2 | Col3`
+
+`:-- | :-: | --:`
+
+`left aligned | centered | right-aligned`
+
+`1 | 2 | 3`
+
+
+Col1 | Col2 | Col3
+:-- | :-: | --:
+left-aligned | centered | right-aligned
+1 | 2 | 3
+
+## To deep further
+1. [Jonh Gruber's official post of syntax](http://daringfireball.net/projects/markdown/syntax)
+2. [Adam Pritchard's great cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
