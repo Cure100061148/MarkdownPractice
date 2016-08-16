@@ -172,5 +172,28 @@ Reference style links
 [link1]: http://www.google.com "Google.com"
 
 
+## Images
+Image are done the same ways as links but with an exclamation mark in front!
 
+`![This is an image](http://www.browngirlmagazine.com/wp-content/uploads/2016/07/love-01.jpg "An image")`
+
+![This is an image](http://www.browngirlmagazine.com/wp-content/uploads/2016/07/love-01.jpg "An image")
+
+Using reference style
+
+`![This is an image][image]`
+
+`[image]: relative/urls/cool/image.jpg "if you need a title, it's here"`
+
+
+## Miscellany
+** Auto-links
+
+** Auto-links for emails
+
+** Escaping characters
+
+** Keyboard keys
+
+** Tables
 
