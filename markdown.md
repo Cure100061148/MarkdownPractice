@@ -116,6 +116,61 @@ or
 - [x] task 3 finished
 
 
+## Code blocks
+You can indicate a code block by indenting a line with **four** spaces or a tab. 
+Note that in GitHub Flavored Markdown, you can also use a special syntax for code(add ``` before and after the code),
+it will use syntax highlighting of the language you specify after the ``` symbol.(Don't need
+to indent the text first.)
+
+```javascript
+function() {
+    console.log('hello world!');
+}
+```
+
+
+## Horizontal rule
+It is easily added with three or more *(asterisks) or -(hyphens), with or without spaces.
+
+For example:
+
+`***`
+
+`---`
+
+`- - - `
+
+`************`    
+
+---
+
+## Links
+Put the texts to display in hard brackets [] followed by the url in parentheses ()
+
+`[Go to Google.com!](http://www.google.com)`
+
+[Go to Google.com!](http://www.google.com)
+
+Add a link title using quotes inside the parentehses
+
+`[Go to Google.com!](http://www.google.com "Link to Google.com")`
+
+[Go to Google.com!](http://www.google.com "Link to Google.com")
+
+Relative paths also work
+
+`[Go to music](/music/)`
+
+Reference style links
+
+`[Click this link][link1] for more info about it!`
+
+`[link1]: http://www.google.com "Google.com"`
+
+[Click this link][link1] for more info about it!
+
+[link1]: http://www.google.com "Google.com"
+
 
 
 
