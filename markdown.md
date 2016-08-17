@@ -118,9 +118,8 @@ or
 
 ## Code blocks
 You can indicate a code block by indenting a line with **four** spaces or a tab. 
-Note that in GitHub Flavored Markdown, you can also use a special syntax for code(add ``` before and after the code),
-it will use syntax highlighting of the language you specify after the ``` symbol.(Don't need
-to indent the text first.)
+Note that in GitHub Flavored Markdown, you can also use a special syntax for code(add ``` ``` ``` symbol before and after the code),
+it will use syntax highlighting of the language you specify after the ``` ``` ``` symbol.(Don't need to indent the text first.)
 
 ```javascript
 function() {
