@@ -187,26 +187,26 @@ Using reference style
 
 
 ## Miscellany
-** Auto-links
+** Auto-links **
 
 <http://www.google.com> is equivalent to
 `[http://www.google.com](http://www.google.com)`
 
-** Auto-links for emails
+** Auto-links for emails **
 
 `<cure100061148@gmail.com>` : <cure100061148@gmail.com>
 
-** Escaping characters
+** Escaping characters **
 
 Add \ before the symbols that create some effect that you dislike. For example, 
 add \ before * can make texts surrounded by asterisks not to be italic.
 
-** Keyboard keys
+** Keyboard keys **
 
 In GitHub Flavored Markdown, you can use a `<kbd>` tag to represent keyboard keys,
 for example, `<kbd>Alt</kbd>` : <kbd>Alt</kbd>
 
-** Tables
+** Tables **
 
 Tables are only available in GitHub Flavored Markdown.
 
